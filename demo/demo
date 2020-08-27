@@ -1,0 +1,1 @@
+node ../dist/iconfont-generator.js -s vector -n 'WF-Icons' -p ni -t i -c ni --tps ttf,svg,woff,woff2

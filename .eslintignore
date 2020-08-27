@@ -1,0 +1,5 @@
+# build artefacts
+dist/*
+
+# data definition files
+**/*.d.ts
